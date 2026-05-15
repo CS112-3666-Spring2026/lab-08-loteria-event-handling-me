@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="95bceaa6-6d54-4bd6-82cd-0714881f3de9" name="Changes" comment="adding IntelliJ project structure">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cs112/lab08/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cs112/lab08/HelloApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,12 +16,83 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jonasdiego10"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CS112-3666-Spring2026/lab-08-loteria-event-handling-me",
+    "accountId": "fef60abe-5377-4e65-ae88-3f57e4963478"
+  }
+}]]></component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="3.023061604330616E-278" />
+      <entry key="MS500" value="3.1339521180483877E-56" />
+      <entry key="S2" value="1.3999136992478193E-14" />
+      <entry key="S5" value="4.049869848080499E-6" />
+      <entry key="S10" value="0.003809808099022943" />
+      <entry key="S30" value="0.4925191581806521" />
+      <entry key="S60" value="1.8640199636254573" />
+      <entry key="M2" value="4.434333576492788" />
+      <entry key="M5" value="11.544134782152915" />
+      <entry key="M10" value="21.362645151020182" />
+      <entry key="M15" value="29.65439788011571" />
+      <entry key="M30" value="47.11400124129996" />
+      <entry key="H1" value="63.715596717692605" />
+      <entry key="H2" value="75.61482642783412" />
+      <entry key="H4" value="82.80612821346932" />
+      <entry key="D1" value="89.5583111685762" />
+      <entry key="W1" value="90.79209192088442" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000000002398" />
+      <entry key="S5" value="1.0000089543146844" />
+      <entry key="S10" value="1.0030501858762113" />
+      <entry key="S30" value="1.201130781894972" />
+      <entry key="S60" value="1.7240485964355603" />
+      <entry key="M2" value="2.6660101621053407" />
+      <entry key="M5" value="5.130693158208045" />
+      <entry key="M10" value="8.91357723797223" />
+      <entry key="M15" value="12.386278533107054" />
+      <entry key="M30" value="19.81764531305316" />
+      <entry key="H1" value="26.7930330396735" />
+      <entry key="H2" value="31.71783550332093" />
+      <entry key="H4" value="34.66559225091467" />
+      <entry key="D1" value="37.415121384394304" />
+      <entry key="W1" value="37.91570012867112" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.9206152917036404E-6" />
+      <entry key="MS500" value="0.07189324333441281" />
+      <entry key="S2" value="0.5178118907524196" />
+      <entry key="S5" value="0.7685535853113422" />
+      <entry key="S10" value="0.8827070965851798" />
+      <entry key="S30" value="1.6284742825433351" />
+      <entry key="S60" value="3.526376515589104" />
+      <entry key="M2" value="7.044974312017022" />
+      <entry key="M5" value="16.6283058047827" />
+      <entry key="M10" value="30.23235893970732" />
+      <entry key="M15" value="41.998104868396474" />
+      <entry key="M30" value="66.89579764237632" />
+      <entry key="H1" value="90.48381317714296" />
+      <entry key="H2" value="107.31781421844764" />
+      <entry key="H4" value="117.46356578242862" />
+      <entry key="D1" value="126.97195976050371" />
+      <entry key="W1" value="128.70757869316046" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -32,22 +102,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.HelloApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/nchapetonlamas/Documents/GitHub/Course-Templates/CS112-L08-Loteria-Event-Handling&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.30572808&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.HelloApplication.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/nchapetonlamas/Documents/GitHub/Course-Templates/CS112-L08-Loteria-Event-Handling",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.30572808",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
@@ -87,6 +169,14 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.24374.151" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.24374.151" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,6 +185,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730312740051</updated>
+      <workItem from="1778863731005" duration="4575000" />
     </task>
     <task id="LOCAL-00001" summary="adding IntelliJ project structure">
       <option name="closed" value="true" />
@@ -106,6 +197,9 @@
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding IntelliJ project structure" />
